@@ -97,3 +97,7 @@ persist.dbg.wfc_avail_ovr=1
 # HWUI
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
+
+# Iorap
+iorapd.perfetto.enable=true
+iorapd.readahead.enable=true
